@@ -8,7 +8,6 @@ import Contact from '../views/Contact.vue'
 Vue.use(Router)
 
 const router = new Router({
-  mode: 'history',
   routes: [
     {
       path: '/',
@@ -31,10 +30,6 @@ const router = new Router({
       component: Contact
     }
   ]
-})
-router.replace({
-  path: '*',
-  redirect: '/'
 })
 
 export default router
