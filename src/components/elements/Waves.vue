@@ -12,6 +12,7 @@
           id="anim1"
           :values="prevWaves.waveFirst+'; '+waves.waveFirst"
           attributeName="d"
+          fill="freeze"
           dur="2s"/>
       </path>
       <path
@@ -21,6 +22,7 @@
           id="anim2"
           :values="prevWaves.waveSecond+'; '+waves.waveSecond"
           attributeName="d"
+          fill="freeze"
           dur="2s"/>
       </path>
     </g>
