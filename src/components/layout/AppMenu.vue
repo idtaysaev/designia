@@ -31,7 +31,24 @@ export default {
   },
   computed: {
     pages () {
-      return this.$router.options.routes
+      return [
+        {
+          path: "/",
+          name: "About"
+        },
+        {
+          path: "/skills",
+          name: "Skills"
+        },
+        {
+          path: "/portfolio",
+          name: "Portfolio"
+        },
+        {
+          path: "/contact",
+          name: "Contact"
+        }
+      ]
     }
   },
   methods: {
