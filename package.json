@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/idtaysaev/designia.git"
   },
-  "author": "idtaysaev@gmail.com",
+  "author": "idtaysaev <idtaysaev@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
