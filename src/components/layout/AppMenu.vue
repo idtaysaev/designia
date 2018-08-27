@@ -33,20 +33,20 @@ export default {
     pages () {
       return [
         {
-          path: "/",
-          name: "About"
+          path: '/',
+          name: 'About'
         },
         {
-          path: "/skills",
-          name: "Skills"
+          path: '/skills',
+          name: 'Skills'
         },
         {
-          path: "/portfolio",
-          name: "Portfolio"
+          path: '/portfolio',
+          name: 'Portfolio'
         },
         {
-          path: "/contact",
-          name: "Contact"
+          path: '/contact',
+          name: 'Contact'
         }
       ]
     }
