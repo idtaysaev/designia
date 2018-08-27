@@ -1,0 +1,11 @@
+// Colors
+$color-1: rgb(0, 153, 255);
+
+$color-primary: white;
+$color-accent: $color-1;
+
+$color-background: $color-accent;
+$color-text: $color-primary;
+$color-text-link: inherit;
+$color-semi-transparent: rgba(black, 0.5);
+$color-shadow: rgba($color-accent, 0.1);
