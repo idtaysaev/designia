@@ -2,7 +2,7 @@
   <svg
     class="waves"
     width="100%"
-    viewBox="0 0 507.52 162.03"
+    viewBox="0 0 1918.2 377.95"
     xmlns="http://www.w3.org/2000/svg">
     <g fill="#fff">
       <path
